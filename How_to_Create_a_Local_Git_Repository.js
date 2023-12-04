@@ -23,4 +23,7 @@ git add (path)
 
 git commit -m "Initial commit"
 ^(This will send a commit message (that's what the -m stands for.))
+
+git commit -a
+^(This will add everything in your file to the commit message)
 */
