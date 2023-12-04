@@ -20,4 +20,7 @@ git add .
 
 git add (path)
 ^(This will add everything inside of the directory.)
+
+git commit -m "Initial commit"
+^(This will send a commit message (that's what the -m stands for.))
 */
