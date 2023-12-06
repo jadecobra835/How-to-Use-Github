@@ -11,6 +11,8 @@ git checkout -b name-of-branch
 # If you want to know what branch you are on just type git branch.
 # From here add something to the thing you want to edit
 
+# git commit -m "Your message"
+
 git checkout name-of-branch
 ^(This will switch you into or out of branches)
 
