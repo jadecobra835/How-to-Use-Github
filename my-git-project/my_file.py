@@ -7,4 +7,4 @@ def hi_there():
 
     
 def my_function():
-    return 'hi'
+    return 'My local change'
