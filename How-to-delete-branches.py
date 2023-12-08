@@ -23,4 +23,4 @@ git branch -d branch-to-remove
 """
 git push origin --delete branch-to-remove
 """
-# And your done
+# And you're done
